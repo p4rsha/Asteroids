@@ -1,1 +1,12 @@
 game_state.jsonl
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+
+# UV / dependency lock 
+uv.lock
